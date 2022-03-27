@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b066d30-c882-205c-8cf4-76dcc44ccafb
 resourcetype: Document
 title: 24.805F15 10 Survey
 uid: 84b35399-31a4-6bb5-6111-a9881c59dc34

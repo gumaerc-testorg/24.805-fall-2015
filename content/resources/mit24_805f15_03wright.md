@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1b066d30-c882-205c-8cf4-76dcc44ccafb
 resourcetype: Document
 title: 24.805F15 03 Wright and McDowell II
 uid: 1e584324-d5a3-47d6-1624-3f38a3830fcb
