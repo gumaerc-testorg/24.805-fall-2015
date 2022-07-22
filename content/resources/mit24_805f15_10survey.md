@@ -6,6 +6,7 @@ file: /courses/24-805-topics-in-epistemology-self-knowledge-fall-2015/84b3539931
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 24.805F15 10 Survey
 uid: 84b35399-31a4-6bb5-6111-a9881c59dc34
 ---
 This is a file that contains information regarding topics in epistemology: self-knowledge 10 survey. 
-
