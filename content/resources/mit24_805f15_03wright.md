@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This is a file that contains information regarding topics in epistemology:
   self-knowledge wright and mcDowell II.'
-file: /courses/24-805-topics-in-epistemology-self-knowledge-fall-2015/1e584324d5a347d616243f38a3830fcb_MIT24_805F15_03Wright.pdf
+file: /ol-ocw-studio-app/courses/24-805-topics-in-epistemology-self-knowledge-fall-2015/1e584324d5a347d616243f38a3830fcb_MIT24_805F15_03Wright.pdf
+file_size: 274196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
