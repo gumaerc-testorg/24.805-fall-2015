@@ -120,7 +120,7 @@ Ryleanism
 Transparency I
 {{< tdclose >}}
 {{< tdopen >}}
-Guest: [Prof. Richard Moran](http://www.people.fas.harvard.edu/~moran/index.html), Harvard University
+Guest: {{% resource_link "47385fca-3bd6-4080-b513-b68e433784a1" "Prof. Richard Moran" %}}, Harvard University
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +132,7 @@ Guest: [Prof. Richard Moran](http://www.people.fas.harvard.edu/~moran/index.html
 Transparency II
 {{< tdclose >}}
 {{< tdopen >}}
-Guest: [Prof. Matt Boyle](https://www.radcliffe.harvard.edu/people/matthew-boyle), Harvard University
+Guest: {{% resource_link "3e93c08c-b64a-4455-9df9-7511e3be9753" "Prof. Matt Boyle" %}}, Harvard University
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Guest: [Prof. Matt Boyle](https://www.radcliffe.harvard.edu/people/matthew-boyle
 Sensation
 {{< tdclose >}}
 {{< tdopen >}}
-Guest: [Prof. Brie Gertler](http://philosophy.virginia.edu/faculty/profile/bg8y), University of Virginia
+Guest: {{% resource_link "73be4987-5015-4a1a-8810-c623b1083bee" "Prof. Brie Gertler" %}}, University of Virginia
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Review Session
 Neo-expressivism
 {{< tdclose >}}
 {{< tdopen >}}
-Guest: [Prof. Dorit Bar-On](http://www.doritbar-on.com/), University of Connecticut
+Guest: {{% resource_link "b746ee8a-c0d0-42a8-a939-4ba3b774c29b" "Prof. Dorit Bar-On" %}}, University of Connecticut
 {{< tdclose >}}
 
 {{< trclose >}}
